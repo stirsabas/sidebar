@@ -1,1 +1,0 @@
-La carpeta Sidebar_icons debe ir en la carpeta public lo mismo que la carpeta icons
